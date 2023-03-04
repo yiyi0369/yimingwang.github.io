@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 #about me 
-I am a second year undergraduate student from [School of the Gifted Young](http://en.scgy.ustc.edu.cn/) in USTC([University of Science and Technology of China](https://www.ustc.edu.cn/)).
+I am a second year undergraduate student from [School of the Gifted Young](http://en.scgy.ustc.edu.cn/) in USTC([University of Science and Technology of China](https://www.ustc.edu.cn/)).explring the interested area (graph mining).
